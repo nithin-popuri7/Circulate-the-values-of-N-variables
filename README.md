@@ -27,7 +27,7 @@ def circulate():
     n=int(input())
     num1=num1[n:]+num1[:n]
     print("After circulating the values are:",num1)
-    ```
+ ```
 
 ## Output:
 ![github logo](img2.png)
